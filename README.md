@@ -69,7 +69,7 @@ The fare is calculated according to the seat's column and row.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/aircraft-seat-booking-system.git
+   git clone https://github.com/mustanser-code/aircraft-seat-booking-system.git
    ```
 
 2. Open the project folder.
